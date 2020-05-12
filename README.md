@@ -4,7 +4,7 @@ I need this to help myself get used to using snippets.
 ## Table of Contents
 1. [General](#general)
 2. [React](#react)
-3. [Next.js](#next)
+3. [Next.js](#next.js)
 
 ## General
 | Shortcut |              Description             |
