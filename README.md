@@ -4,7 +4,7 @@ I need this to help myself get used to using snippets.
 ## Table of Contents
 1. [General](#general)
 2. [React](#react)
-3. [Next.js](#next.js)
+3. [Next.js](#nextjs)
 
 ## General
 | Shortcut |              Description             |
@@ -25,9 +25,10 @@ I need this to help myself get used to using snippets.
 |    imrcp | import React, { Component }, PropTypes   |
 
 ## Next.js
-| Shortcut | Description         |
-|---------:|---------------------|
-|    imlnk | import Link         |
-|     nlnk | Link element        |
-|     imhd | import Head         |
-|      nhd | Head element        |
+| Shortcut | Description                                     |
+|---------:|-------------------------------------------------|
+|    imlnk | import Link                                     |
+|     nlnk | Link element                                    |
+|     imhd | import Head                                     |
+|      nhd | Head element                                    |
+|    gipaq | static getInitialProps() inside class component |
